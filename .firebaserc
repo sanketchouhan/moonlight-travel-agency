@@ -1,0 +1,12 @@
+{
+  "projects": {},
+  "targets": {
+    "designwebsites-55d34": {
+      "hosting": {
+        "moonLightTravelAgency": [
+          "moonlight-travel-agency"
+        ]
+      }
+    }
+  }
+}

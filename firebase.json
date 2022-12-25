@@ -1,0 +1,8 @@
+{
+  "hosting": [
+    {
+      "target": "moonLightTravelAgency",
+      "public": "public"
+    }
+  ]
+}
